@@ -1,0 +1,17 @@
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.vbproj.AssemblyReference.cache
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.vbproj.GenerateResource.cache
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.AssemblyInfoInputs.cache
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.AssemblyInfo.vb
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.vbproj.CoreCompileInputs.cache
+C:\Users\dynabook\source\repos\dentaku\dentaku\bin\Debug\netcoreapp3.1\dentaku.exe
+C:\Users\dynabook\source\repos\dentaku\dentaku\bin\Debug\netcoreapp3.1\dentaku.deps.json
+C:\Users\dynabook\source\repos\dentaku\dentaku\bin\Debug\netcoreapp3.1\dentaku.runtimeconfig.json
+C:\Users\dynabook\source\repos\dentaku\dentaku\bin\Debug\netcoreapp3.1\dentaku.runtimeconfig.dev.json
+C:\Users\dynabook\source\repos\dentaku\dentaku\bin\Debug\netcoreapp3.1\dentaku.dll
+C:\Users\dynabook\source\repos\dentaku\dentaku\bin\Debug\netcoreapp3.1\dentaku.pdb
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.dll
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.pdb
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.genruntimeconfig.cache
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.FomDentaku.resources
+C:\Users\dynabook\source\repos\dentaku\dentaku\obj\Debug\netcoreapp3.1\dentaku.Resources.resources
